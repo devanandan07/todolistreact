@@ -9,5 +9,5 @@ Currently, two official plugins are available:
 
 
   ## output
-  ![Screenshot (89)](https://github.com/user-attachments/assets/0ad0adae-1859-451d-91b0-c8831281255a)
-  ![Screenshot (90)](https://github.com/user-attachments/assets/88a29626-7c9a-45a7-8ccb-e022fede73fa)
+  ![image](https://github.com/user-attachments/assets/d00c5be5-5c56-484e-ae23-2ca803567cf1)
+
