@@ -10,4 +10,6 @@ Currently, two official plugins are available:
 
   ## output
   ![image](https://github.com/user-attachments/assets/d00c5be5-5c56-484e-ae23-2ca803567cf1)
+  ![image](https://github.com/user-attachments/assets/c4836434-61ba-45e8-8c13-fde84a5971b2)
+
 
